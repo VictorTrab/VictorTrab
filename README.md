@@ -1,48 +1,61 @@
-# Hola, soy Victor Hugo Lopez Hernandez
+# Víctor Hugo López Hernández
 
-Estudiante de Ingenieria en Sistemas Computacionales en Honduras. Estoy construyendo proyectos para fortalecer mis bases en desarrollo de software, aplicaciones web y programacion orientada a la resolucion de problemas reales.
+Estudiante de Ingeniería en Sistemas Computacionales | Soporte técnico y desarrollo de software
 
-## Sobre mi
+Soy estudiante de último año de Ingeniería en Sistemas Computacionales en La Paz, Honduras. Tengo un año de experiencia práctica en soporte técnico y he participado en el desarrollo de aplicaciones de escritorio y proyectos académicos. Actualmente busco una práctica profesional donde pueda resolver problemas, colaborar con un equipo y seguir aprendiendo mientras aporto con mis capacidades actuales.
 
-- Actualmente estoy trabajando en `SIGQUA`, un proyecto privado desarrollado en Python.
-- Me gusta aprender creando proyectos practicos, academicos y personales.
-- Estoy enfocado en mejorar mis habilidades en Python, JavaScript, HTML/CSS y Visual Basic .NET.
-- Me interesa seguir creciendo en desarrollo web, logica de programacion y construccion de sistemas utiles.
+## Experiencia actual
 
-## Tecnologias con las que he trabajado
+- Mantenimiento preventivo y correctivo de equipos.
+- Diagnóstico de problemas de hardware, software y rendimiento en Windows.
+- Configuración básica de routers, redes LAN, direccionamiento IP y puertas de enlace.
+- Cableado Ethernet, conectores RJ45 y apoyo en conectividad local.
+- Orientación a usuarios, protección de información y asesoría para compra o actualización de hardware.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Tecnologías
 
-## Proyectos destacados
+- Python, PySide6, SQLite y SQL
+- Git y GitHub
+- JavaScript, HTML y CSS
+- Windows
+- Fundamentos en aprendizaje actual: React y TypeScript
 
-| Proyecto | Descripcion | Stack |
-| --- | --- | --- |
-| [Portafolio-Victor](https://github.com/VictorTrab/Portafolio-Victor) | Portafolio personal hecho como practica de HTML y CSS. | HTML, CSS |
-| [sistema-operativo-Simulaci-n](https://github.com/VictorTrab/sistema-operativo-Simulaci-n) | Simulacion educativa basada en un sistema operativo, adaptada con fines de aprendizaje. | JavaScript |
-| [SuperRepuesto](https://github.com/VictorTrab/SuperRepuesto) | Proyecto de sistema de gestion desarrollado en Visual Basic .NET. | Visual Basic .NET |
-| [AnimacionCuadrado](https://github.com/VictorTrab/AnimacionCuadrado) | Ejercicio simple de animacion para practicar programacion con Python. | Python |
-| [Trabajo---Proyecto-final](https://github.com/VictorTrab/Trabajo---Proyecto-final) | Proyecto final academico desarrollado en Python. | Python |
+## Desarrollo asistido por IA
 
-## Estadisticas
+Uso herramientas de desarrollo asistido por IA para apoyar el análisis, la planificación, la depuración, las pruebas y la documentación, verificando manualmente los resultados antes de integrarlos.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTrab&show_icons=true&hide_border=true&rank_icon=github&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrab&layout=compact&hide_border=true&locale=es)
+## Proyectos públicos
 
-## Objetivos actuales
+### [ChivaTask](https://github.com/VictorTrab/ChivaTask)
 
-- Publicar proyectos mas completos y mejor documentados.
-- Seguir mejorando mi perfil tecnico con proyectos practicos.
-- Fortalecer mis conocimientos en desarrollo de software y buenas practicas.
+Aplicación de escritorio para Windows que consulta Moodle mediante su API oficial, identifica actividades pendientes y muestra recordatorios locales.
+
+Aspectos principales:
+
+- Python, PySide6 y SQLite.
+- Integración con la API oficial de Moodle.
+- Manejo seguro de credenciales con Windows Credential Manager.
+- Sincronización en segundo plano y pruebas automatizadas.
+
+### [CUBO: Arquitecto del Caos](https://github.com/VictorTrab/cubo-arquitecto-del-caos)
+
+Videojuego académico colaborativo de rompecabezas geométricos desarrollado con Python y Pygame.
+
+Aspectos principales:
+
+- Lógica de juego, niveles, colisiones y persistencia.
+- Efectos visuales, audio y máquina de estados.
+- Proyecto académico desarrollado en colaboración.
+
+## Experiencia en proyectos privados
+
+- Desarrollo de una aplicación de escritorio diseñada a partir de necesidades reales de una junta de agua.
+- La propuesta fue presentada y valorada favorablemente; su implementación está pendiente por disponibilidad de infraestructura tecnológica.
+- Participación en un sistema ERP comercial colaborativo que continúa en desarrollo.
 
 ## Contacto
 
+- Ubicación: La Paz, Honduras
+- Correo: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
 - GitHub: [github.com/VictorTrab](https://github.com/VictorTrab)
-- Ubicacion: Honduras
-
-Gracias por visitar mi perfil.
+- Estado: disponible para práctica profesional
