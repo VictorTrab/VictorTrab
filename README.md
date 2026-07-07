@@ -1,36 +1,35 @@
 # Víctor Hugo López Hernández
 
-Estudiante de Ingeniería en Sistemas Computacionales | Soporte técnico y desarrollo de software
+Estudiante de Ingeniería en Sistemas Computacionales con experiencia práctica en soporte técnico, mantenimiento de equipos y desarrollo de proyectos académicos y de escritorio. Busco una práctica profesional donde pueda aportar en tareas de soporte, desarrollo, documentación y mejora de procesos mientras sigo fortaleciendo mis bases técnicas.
 
-Soy estudiante de último año de Ingeniería en Sistemas Computacionales en La Paz, Honduras. Tengo un año de experiencia práctica en soporte técnico y he participado en el desarrollo de aplicaciones de escritorio y proyectos académicos. Actualmente busco una práctica profesional donde pueda resolver problemas, colaborar con un equipo y seguir aprendiendo mientras aporto con mis capacidades actuales.
+## Enfoque actual
 
-## Experiencia actual
-
-- Mantenimiento preventivo y correctivo de equipos.
-- Diagnóstico de problemas de hardware, software y rendimiento en Windows.
-- Configuración básica de routers, redes LAN, direccionamiento IP y puertas de enlace.
-- Cableado Ethernet, conectores RJ45 y apoyo en conectividad local.
-- Orientación a usuarios, protección de información y asesoría para compra o actualización de hardware.
+- Soporte técnico preventivo y correctivo en equipos Windows.
+- Diagnóstico de problemas de hardware, software, red y rendimiento.
+- Configuración básica de redes LAN, direccionamiento IP, routers y conectividad local.
+- Desarrollo de aplicaciones de escritorio y proyectos académicos con Python.
+- Documentación, pruebas y mejora gradual de proyectos públicos.
 
 ## Tecnologías
 
-- Python, PySide6, SQLite y SQL
-- Git y GitHub
-- JavaScript, HTML y CSS
-- Windows
-- Fundamentos en aprendizaje actual: React y TypeScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 
-## Desarrollo asistido por IA
+Aprendizaje actual: React y TypeScript.
 
-Uso herramientas de desarrollo asistido por IA para apoyar el análisis, la planificación, la depuración, las pruebas y la documentación, verificando manualmente los resultados antes de integrarlos.
-
-## Proyectos públicos
+## Proyectos destacados
 
 ### [ChivaTask](https://github.com/VictorTrab/ChivaTask)
 
-Aplicación de escritorio para Windows que consulta Moodle mediante su API oficial, identifica actividades pendientes y muestra recordatorios locales.
-
-Aspectos principales:
+Aplicación de escritorio para Windows que consulta Moodle mediante su API oficial y muestra actividades académicas pendientes.
 
 - Python, PySide6 y SQLite.
 - Integración con la API oficial de Moodle.
@@ -39,23 +38,19 @@ Aspectos principales:
 
 ### [CUBO: Arquitecto del Caos](https://github.com/VictorTrab/cubo-arquitecto-del-caos)
 
-Videojuego académico colaborativo de rompecabezas geométricos desarrollado con Python y Pygame.
+Videojuego académico colaborativo de puzzle geométrico desarrollado con Python y Pygame, con niveles, colisiones, persistencia y arquitectura basada en estados.
 
-Aspectos principales:
+- Lógica de juego organizada por estados.
+- Niveles, colisiones, piezas geométricas y persistencia en JSON.
+- Audio, efectos visuales y documentación técnica.
 
-- Lógica de juego, niveles, colisiones y persistencia.
-- Efectos visuales, audio y máquina de estados.
-- Proyecto académico desarrollado en colaboración.
+## Desarrollo asistido por IA
 
-## Experiencia en proyectos privados
-
-- Desarrollo de una aplicación de escritorio diseñada a partir de necesidades reales de una junta de agua.
-- La propuesta fue presentada y valorada favorablemente; su implementación está pendiente por disponibilidad de infraestructura tecnológica.
-- Participación en un sistema ERP comercial colaborativo que continúa en desarrollo.
+Uso herramientas de desarrollo asistido por IA como apoyo para análisis, planificación, depuración, pruebas y documentación. Los resultados se revisan manualmente antes de integrarlos en proyectos.
 
 ## Contacto
 
-- Ubicación: La Paz, Honduras
+- Ubicación: La Paz, Honduras.
 - Correo: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
 - GitHub: [github.com/VictorTrab](https://github.com/VictorTrab)
-- Estado: disponible para práctica profesional
+- Estado: disponible para práctica profesional.
