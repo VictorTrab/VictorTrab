@@ -49,5 +49,3 @@ A personal tool inspired by spotify-player, focused on building a practical and 
 ## Contact
 
 - Email: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
-- GitHub: [github.com/VictorTrab](https://github.com/VictorTrab)
-- Location: La Paz, Honduras
