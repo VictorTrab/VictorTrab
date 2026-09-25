@@ -40,11 +40,15 @@ I also use AI-assisted workflows with coding agents and Outcome-Driven Developme
 
 ### SpotifyGo
 
-A personal tool inspired by spotify-player, focused on building a practical and lightweight Spotify experience.
+A lightweight Spotify client built for developers who want music without a heavy desktop app getting in the way.
 
-- Personal utility project under active refinement
-- Focused on usability and everyday workflow
-- Current main public project on this profile
+SpotifyGo was created as a simpler and more comfortable alternative for development workflows, focusing on low resource usage, quick access to music, and a clean interface that stays out of the way while working.
+
+- Lightweight alternative for everyday Spotify playback
+- Designed to fit comfortably into development workflows
+- Clean and visually polished interface
+- Focused on simplicity, responsiveness and low overhead
+- Currently under active refinement
 
 ## Contact
 
