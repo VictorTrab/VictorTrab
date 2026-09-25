@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm Víctor Hugo López Hernández, a Systems Engineering student from Honduras.
+I'm Víctor López, a Systems Engineering student from Honduras.
 
 I work across IT support and software development, with experience in Windows troubleshooting, hardware diagnostics, local networking, and building practical software projects.
 
