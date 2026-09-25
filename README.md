@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/profile-avatar.png" alt="Víctor avatar" width="160" />
 
   # Hi there 👋, I'm Víctor
 
