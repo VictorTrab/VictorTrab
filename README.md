@@ -1,56 +1,54 @@
-# Víctor Hugo López Hernández
+<div align="center">
+  <img src="./assets/profile-avatar.png" alt="Víctor avatar" width="160" />
 
-Estudiante de Ingeniería en Sistemas Computacionales con experiencia práctica en soporte técnico, mantenimiento de equipos y desarrollo de proyectos académicos y de escritorio. Busco una práctica profesional donde pueda aportar en tareas de soporte, desarrollo, documentación y mejora de procesos mientras sigo fortaleciendo mis bases técnicas.
+  # Hi there 👋, I'm Víctor
 
-## Enfoque actual
+  **Systems Engineering Student | IT Support | Software Development**
+</div>
 
-- Soporte técnico preventivo y correctivo en equipos Windows.
-- Diagnóstico de problemas de hardware, software, red y rendimiento.
-- Configuración básica de redes LAN, direccionamiento IP, routers y conectividad local.
-- Desarrollo de aplicaciones de escritorio y proyectos académicos con Python.
-- Documentación, pruebas y mejora gradual de proyectos públicos.
+## About me
 
-## Tecnologías
+I'm Víctor Hugo López Hernández, a Systems Engineering student from Honduras.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+I work across IT support and software development, with experience in Windows troubleshooting, hardware diagnostics, local networking, and building practical software projects.
 
-Aprendizaje actual: React y TypeScript.
+I also use AI-assisted workflows with coding agents and Outcome-Driven Development (ODD) to improve analysis, implementation, testing, and documentation.
 
-## Proyectos destacados
+## Skills
 
-### [ChivaTask](https://github.com/VictorTrab/ChivaTask)
+- Software development with Python, JavaScript, HTML and CSS
+- SQL and SQLite database work
+- Windows support, troubleshooting and hardware diagnostics
+- Local networking and technical support
+- Git and GitHub workflows
+- AI-assisted development using coding agents and ODD
 
-Aplicación de escritorio para Windows que consulta Moodle mediante su API oficial y muestra actividades académicas pendientes.
+## Tech Stack
 
-- Python, PySide6 y SQLite.
-- Integración con la API oficial de Moodle.
-- Manejo seguro de credenciales con Windows Credential Manager.
-- Sincronización en segundo plano y pruebas automatizadas.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+</p>
 
-### [CUBO: Arquitecto del Caos](https://github.com/VictorTrab/cubo-arquitecto-del-caos)
+## Featured Project
 
-Videojuego académico colaborativo de puzzle geométrico desarrollado con Python y Pygame, con niveles, colisiones, persistencia y arquitectura basada en estados.
+### SpotifyGo
 
-- Lógica de juego organizada por estados.
-- Niveles, colisiones, piezas geométricas y persistencia en JSON.
-- Audio, efectos visuales y documentación técnica.
+A personal tool inspired by spotify-player, focused on building a practical and lightweight Spotify experience.
 
-## Desarrollo asistido por IA
+- Personal utility project under active refinement
+- Focused on usability and everyday workflow
+- Current main public project on this profile
 
-Uso herramientas de desarrollo asistido por IA como apoyo para análisis, planificación, depuración, pruebas y documentación. Los resultados se revisan manualmente antes de integrarlos en proyectos.
+## Contact
 
-## Contacto
-
-- Ubicación: La Paz, Honduras.
-- Correo: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
+- Email: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
 - GitHub: [github.com/VictorTrab](https://github.com/VictorTrab)
-- Estado: disponible para práctica profesional.
+- Location: La Paz, Honduras
