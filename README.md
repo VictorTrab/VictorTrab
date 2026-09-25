@@ -2,6 +2,8 @@
 
   # Hi there 👋, I'm Víctor
 
+  **Systems Engineering Student | IT Support | Software Development**
+
 </div>
 
 ## About me
