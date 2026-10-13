@@ -51,6 +51,14 @@ SpotifyGo was created as a simpler and more comfortable alternative for developm
 - Focused on simplicity, responsiveness and low overhead
 - Currently under active refinement
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorTrab/VictorTrab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorTrab/VictorTrab/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/VictorTrab/VictorTrab/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Contact
 
 - Email: [hugov7334@gmail.com](mailto:hugov7334@gmail.com)
