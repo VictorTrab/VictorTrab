@@ -39,7 +39,7 @@ I also use AI-assisted workflows with coding agents and Outcome-Driven Developme
 
 ## Featured Project
 
-### SpotifyGo
+### SpotifyGo 🎧
 
 A lightweight Spotify client built for developers who want music without a heavy desktop app getting in the way.
 
